@@ -1,5 +1,8 @@
 package com.sampleprograms.com;
 
+/*
+ * This is Stack using Linked List
+ * */
 public class StackUsingLinkedList {
 	private Node head = null;
 	int size = 0;
